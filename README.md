@@ -13,3 +13,5 @@ Per utilizzare questo notebook, assicurati di aver configurato i seguenti Secret
 GEMINI_API_KEY: Per l'elaborazione del testo e TTS.
 OPENAI_API_key: Per la generazione di immagini e video.
 FolderIDGDRIVE: Per upload e download documenti e media. Nota: Questo progetto distribuito a scopo educativo e creativo.
+
+<a href="https://www.producthunt.com/products/ai-talk-radio-show?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-ai-talk-radio-show" target="_blank" rel="noopener noreferrer"><img alt="AI Talk Radio Show - Talk Radio Show powerred by AI | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1153599&amp;theme=light&amp;t=1779478377598"></a>
